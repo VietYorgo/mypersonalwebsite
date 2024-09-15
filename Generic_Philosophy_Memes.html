@@ -1,22 +1,65 @@
-<img src="https://i.imgur.com/IML9Elu.png"  width="400" 
-     height=auto class="center">
-<img src="https://i.imgur.com/OFQPfAP.png"width="400" 
-     height=auto> <br>
-<img src="https://i.imgur.com/dSWowme.jpeg"> <br>
-<img src="https://i.imgur.com/fKAx1Sn.jpeg"> <br>
-<img src="https://i.imgur.com/dn0dbJW.jpeg"> <br>
-<img src="https://i.imgur.com/Wxvsj3g.jpeg"> <br>
-<img src="https://i.imgur.com/oNELFF1.jpeg"> <br>
-<img src="https://i.imgur.com/LcraJ7y.png"> <br>
-<img src="https://i.imgur.com/g39WEuo.png"> <br>
-<img src="https://i.imgur.com/ECrgKie.png"> <br>
-<img src="https://i.imgur.com/WqTfN1O.png"> <br>
-<img src="https://i.imgur.com/X2y8EUQ.png"> <br>
-<img src="https://i.imgur.com/SUMKaTM.png"> <br>
-<img src="https://i.imgur.com/Kus1GwZ.png"> <br>
-<img src="https://i.imgur.com/VuRpmhF.png"> <br>
-<img src="https://i.imgur.com/Gz3R1z4.png"> <br>
-<img src="https://i.imgur.com/meMr9Ym.png"> <br>
-<img src="https://i.imgur.com/f0v8q3e.png"> <br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Images</title>
+    <style>
+        /* General styles for images */
+        .image-container img {
+            display: block;
+            width: 100%; /* Full width on mobile */
+            max-width: 600px; /* Max width for desktop */
+            height: auto;
+            margin: 0 auto; /* Center images on desktop */
+            padding: 10px 0; /* Add vertical spacing */
+        }
 
-<a href='index.html'> Back to the main page. </a>
+        /* Separator between images */
+        .image-container img + img {
+            border-top: 1px solid #ccc; /* Separator line */
+            padding-top: 20px; /* Space after separator */
+        }
+
+        /* Optional: Style for the back link */
+        .back-link {
+            display: block;
+            margin-top: 20px;
+            text-align: center;
+            font-size: 16px;
+            color: #333;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="image-container">
+    <img src="https://i.imgur.com/IML9Elu.png" alt="Image 1">
+    <img src="https://i.imgur.com/OFQPfAP.png" alt="Image 2">
+    <img src="https://i.imgur.com/dSWowme.jpeg" alt="Image 3">
+    <img src="https://i.imgur.com/fKAx1Sn.jpeg" alt="Image 4">
+    <img src="https://i.imgur.com/dn0dbJW.jpeg" alt="Image 5">
+    <img src="https://i.imgur.com/Wxvsj3g.jpeg" alt="Image 6">
+    <img src="https://i.imgur.com/oNELFF1.jpeg" alt="Image 7">
+    <img src="https://i.imgur.com/LcraJ7y.png" alt="Image 8">
+    <img src="https://i.imgur.com/g39WEuo.png" alt="Image 9">
+    <img src="https://i.imgur.com/ECrgKie.png" alt="Image 10">
+    <img src="https://i.imgur.com/WqTfN1O.png" alt="Image 11">
+    <img src="https://i.imgur.com/X2y8EUQ.png" alt="Image 12">
+    <img src="https://i.imgur.com/SUMKaTM.png" alt="Image 13">
+    <img src="https://i.imgur.com/Kus1GwZ.png" alt="Image 14">
+    <img src="https://i.imgur.com/VuRpmhF.png" alt="Image 15">
+    <img src="https://i.imgur.com/Gz3R1z4.png" alt="Image 16">
+    <img src="https://i.imgur.com/meMr9Ym.png" alt="Image 17">
+    <img src="https://i.imgur.com/f0v8q3e.png" alt="Image 18">
+</div>
+
+<a href="index.html" class="back-link">Back to the main page</a>
+
+</body>
+</html>

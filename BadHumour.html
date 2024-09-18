@@ -1,9 +1,68 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Philosophy Memes</title>
-  <link rel="stylesheet" href="styles.css">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f4f4f9;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    .menu {
+      width: 100%;
+      max-width: 400px;
+      text-align: center;
+    }
+    .menu ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    .menu li {
+      margin-bottom: 15px;
+    }
+    .menu a {
+      display: block;
+      text-decoration: none;
+      color: white;
+      background-color: #0073e6;
+      padding: 15px;
+      border-radius: 8px;
+      font-size: 1.2rem;
+      transition: background-color 0.3s ease;
+    }
+    .menu a:hover {
+      background-color: #005bb5;
+    }
+    .back-link {
+      margin-top: 20px;
+    }
+    .back-link a {
+      text-decoration: none;
+      color: #0073e6;
+      font-size: 1.1rem;
+    }
+    .back-link a:hover {
+      color: #005bb5;
+    }
+    @media (max-width: 600px) {
+      .menu a {
+        padding: 12px;
+        font-size: 1rem;
+      }
+    }
+  </style>
 </head>
 <body>
   <nav class="menu">
@@ -14,7 +73,6 @@
       <li><a href="Generic_Philosophy_Memes.html">Generic Philosophy Memes</a></li>
     </ul>
   </nav>
-
   <div class="back-link">
     <p><a href="index.html">Back to the main page</a></p>
   </div>

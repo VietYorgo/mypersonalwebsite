@@ -38,7 +38,7 @@
         .image-container img {
             display: block;
             width: 100%; /* Full width on mobile */
-            max-width: 600px; /* Max width for desktop */
+            max-width: 800px; /* Max width for desktop */
             margin-bottom: 20px;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -64,6 +64,14 @@
         .back-link:hover {
             color: #0056b3;
             text-decoration: underline;
+        }
+
+        /* Media query for larger screens */
+        @media(min-width: 768px) {
+            .image-container img {
+                width: 80%; /* Limit to 80% of container on larger screens */
+                margin-bottom: 30px;
+            }
         }
     </style>
 </head>

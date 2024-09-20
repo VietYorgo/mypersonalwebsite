@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Responsive Images</title>
     <style>
-        /* General reset */
+        /* Reset for consistent spacing */
         * {
             margin: 0;
             padding: 0;
@@ -16,15 +16,15 @@
             font-family: Arial, sans-serif;
             background-color: #f9f9f9;
             padding: 20px;
+            line-height: 1.6;
         }
 
         /* Style for date headings */
-        .date {
-            font-size: 28px;
+        h2 {
             text-align: center;
-            font-weight: bold;
-            margin: 40px 0 20px;
+            font-size: 28px;
             color: #333;
+            margin-bottom: 20px;
         }
 
         /* Container for images */
@@ -34,9 +34,8 @@
             align-items: center;
         }
 
-        /* Responsive images with max-width for desktop and full width for mobile */
-        .image-container img {
-            display: block;
+        /* Responsive image styling */
+        img {
             width: 100%; /* Full width on mobile */
             max-width: 600px; /* Max width for desktop */
             margin-bottom: 20px;
@@ -45,23 +44,25 @@
         }
 
         /* Separator between images */
-        .image-container img + img {
-            border-top: 2px solid #ccc; /* Separator line */
-            padding-top: 20px; /* Space after separator */
+        img + img {
+            border-top: 2px solid #ccc;
+            padding-top: 20px;
         }
 
         /* Back link styling */
         .back-link {
-            display: block;
             margin-top: 40px;
             text-align: center;
+        }
+
+        .back-link a {
             font-size: 18px;
             color: #007bff;
             text-decoration: none;
             transition: color 0.3s ease;
         }
 
-        .back-link:hover {
+        .back-link a:hover {
             color: #0056b3;
             text-decoration: underline;
         }
@@ -69,17 +70,19 @@
 </head>
 <body>
 
-<h2>20 September, 2024</h2>
+    <h2>20 September, 2024</h2>
 
-<img src="https://i.imgur.com/9aVgyWb.png" alt="sausage">
-<img src="https://i.imgur.com/iayZYn4.jpeg" alt="bad choices">
-<img src="https://i.imgur.com/dTvM7mY.png" alt ="reality">
-<img src="https://i.imgur.com/s11JbSw.jpeg" alt ="slavery">
-<img src="https://i.imgur.com/N1uPfoZ.jpeg" alt="garbage">
+    <div class="image-container">
+        <img src="https://i.imgur.com/9aVgyWb.png" alt="sausage">
+        <img src="https://i.imgur.com/iayZYn4.jpeg" alt="bad choices">
+        <img src="https://i.imgur.com/dTvM7mY.png" alt="reality">
+        <img src="https://i.imgur.com/s11JbSw.jpeg" alt="slavery">
+        <img src="https://i.imgur.com/N1uPfoZ.jpeg" alt="garbage">
+    </div>
 
-<div class="back-link">
-    <p><a href="index.html">Back to the main page</a></p>
-  </div>
+    <div class="back-link">
+        <a href="index.html">Back to the main page</a>
+    </div>
+
 </body>
 </html>
-

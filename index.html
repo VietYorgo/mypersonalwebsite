@@ -1,198 +1,200 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-    <link rel="icon" href="https://i.imgur.com/Ng8yJvy.png" type="image/jpeg">
-    <!-- Other head content like meta tags, title, etc. -->
-</head>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Georgios Michalopoulos - About Me</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
+        <link rel="icon" href="https://i.imgur.com/Ng8yJvy.png" type="image/jpeg">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Georgios Michalopoulos - About Me</title>
+        <style>
+            body {
+                font-family: 'Arial', sans-serif;
+                background-color: #dff6ff; /* Light blue background */
+                color: #2c3e50;
+                margin: 0;
+                padding: 0;
+            }
 
-        h1, h2 {
-            text-align: center;
-            color: #2c3e50;
-        }
+            h1, h2 {
+                text-align: center;
+            }
 
-        h1 {
-            margin-top: 30px;
-        }
+            h1 {
+                margin-top: 30px;
+                color: #1abc9c;
+            }
 
-        h2 {
-            margin-top: 20px;
-            margin-bottom: 10px;
-        }
+            h2 {
+                margin: 15px 0;
+                color: #2980b9;
+            }
 
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
+            a {
+                color: #3498db;
+                text-decoration: none;
+            }
 
-        a:hover {
-            text-decoration: underline;
-        }
+            a:hover {
+                text-decoration: underline;
+                color: #1abc9c;
+            }
 
-        p {
-            max-width: 800px;
-            margin: 10px auto;
-            padding: 0 15px;
-            text-align: center;
-        }
+            p {
+                max-width: 800px;
+                margin: 10px auto;
+                padding: 0 15px;
+                text-align: center;
+            }
 
-        .content {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: white;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-        }
+            .content {
+                max-width: 900px;
+                margin: 30px auto;
+                background-color: #ffffff; /* White background */
+                padding: 25px;
+                box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+                border-radius: 12px;
+            }
 
-        .languages-section {
-            text-align: center;
-        }
+            .image-banner {
+                text-align: center;
+                margin-bottom: 20px;
+            }
 
-        .languages {
-            margin: 20px auto;
-            max-width: 800px;
-        }
+            .image-banner img {
+                max-width: 300px; /* Smaller image width */
+                border-radius: 12px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            }
 
-        .languages div {
-            background-color: #eef2f3;
-            padding: 15px;
-            margin-bottom: 15px;
-            border-radius: 8px;
-        }
+            .languages-section {
+                background-color: #e0f7fa; /* Light cyan background */
+                padding: 30px 0;
+                margin: 30px 0;
+                border-radius: 8px;
+            }
 
-        .languages h3 {
-            margin: 0;
-            font-size: 1.3em;
-            color: #2980b9;
-        }
+            .languages div {
+                background-color: #f0fcff;
+                padding: 15px;
+                margin-bottom: 10px;
+                border-radius: 8px;
+                box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            }
 
-        .languages p {
-            margin: 10px 0 0;
-            text-align: left;
-            color: #555;
-        }
+            .footer-links {
+                text-align: center;
+                margin-top: 30px;
+                padding: 15px;
+                background-color: #f8f9fa; /* Light grey background */
+                border-radius: 8px;
+            }
 
-        .section {
-            border-top: 1px solid #ddd;
-            padding-top: 20px;
-            margin-top: 20px;
-        }
+            .footer-links a {
+                display: inline-block;
+                margin: 10px;
+                padding: 12px;
+                background-color: #3498db;
+                color: white;
+                border-radius: 6px;
+                text-decoration: none;
+                transition: background-color 0.3s;
+            }
 
-        .footer-links a {
-            display: inline-block;
-            margin: 10px;
-        }
+            .footer-links a:hover {
+                background-color: #1abc9c;
+            }
 
-        .footer-links {
-            text-align: center;
-            margin-top: 30px;
-        }
+            .section {
+                margin-top: 20px;
+                padding-top: 20px;
+                border-top: 1px solid #ddd;
+            }
+        </style>
+    </head>
+    <body>
 
-        .footer-links a {
-            padding: 10px;
-            background-color: #3498db;
-            color: white;
-            border-radius: 5px;
-            text-decoration: none;
-        }
-
-        .footer-links a:hover {
-            background-color: #2980b9;
-        }
-    </style>
-</head>
-<body>
-
-<div class="content">
-    <h1>Hey, I'm Georgios (Yorgo) Michalopoulos</h1>
-
-    <h2><a href="classbooking.html">Book a class with me</a></h2>
-
-    <h2>About Me</h2>
-    <p>
-        I am a foreign language teacher and learner. 
-        <a href="https://discord.gg/xDj2WM75Vd">Join my Philosophy Discord Server</a>.
-    </p>
-
-    <div class="section">
-        <h2>What I'm Working On</h2>
-        <p>
-            I'm currently obsessed with learning Vietnamese, and I split my time between Athens, Greece, and Bắc Ninh, Vietnam.
-        </p>
-    </div>
-
-    <div class="languages-section">
-        <h2>Languages I Speak</h2>
-
-        <div class="languages">
-            <div>
-                <h3>Greek:</h3>
-                <p>Native speaker.</p>
+        <div class="content">
+            <div class="image-banner">
+                <img src="https://i.imgur.com/XS0Q1mb.jpeg" alt="Oxford Graduation">
             </div>
 
-            <div>
-                <h3>English:</h3>
-                <p>Near native. I studied in the UK with a scholarship from the Greek State. I hold a PhD in European History <a href="https://i.imgur.com/XS0Q1mb.jpeg">from Oxford</a> and an MPhil <a href="https://i.imgur.com/WBvVSs6.jpeg">from Cambridge</a>.</p>
+            <h1>Hey, I'm Georgios (Yorgo) Michalopoulos</h1>
+            <h2><a href="classbooking.html">Book a class with me</a></h2>
+
+            <h2>About Me</h2>
+            <p>
+                I am a foreign language teacher and learner. 
+                <a href="https://discord.gg/xDj2WM75Vd">Join my Philosophy Discord Server</a>.
+            </p>
+
+            <div class="section">
+                <h2>What I'm Working On</h2>
+                <p>
+                    I'm currently obsessed with learning Vietnamese, and I split my time between Athens, Greece, and Bắc Ninh, Vietnam.
+                </p>
             </div>
 
-            <div>
-                <h3>French:</h3>
-                <p>C2 (near native). <a href="https://i.imgur.com/wLaEM9e.jpeg">Teaching Permit</a>.</p>
+            <div class="languages-section">
+                <h2>Languages I Speak</h2>
+                <div class="languages">
+                    <div>
+                        <h3>Greek:</h3>
+                        <p>Native speaker.</p>
+                    </div>
+                    <div>
+                        <h3>English:</h3>
+                        <p>
+                            Near native. I studied in the UK with a scholarship from the Greek State. I hold a PhD in European History 
+                            <a href="https://i.imgur.com/XS0Q1mb.jpeg">from Oxford</a> and an MPhil 
+                            <a href="https://i.imgur.com/WBvVSs6.jpeg">from Cambridge</a>.
+                        </p>
+                    </div>
+                    <div>
+                        <h3>French:</h3>
+                        <p>C2 (near native). <a href="https://i.imgur.com/wLaEM9e.jpeg">Teaching Permit</a>.</p>
+                    </div>
+                    <div>
+                        <h3>Italian:</h3>
+                        <p><a href="https://i.imgur.com/oZLG0zj.jpeg">C2 (near native)</a>.</p>
+                    </div>
+                    <div>
+                        <h3>Spanish:</h3>
+                        <p><a href="https://i.imgur.com/jJlLbvj.jpg">C2 (near native)</a>. <a href="https://i.imgur.com/CPFtKNM.jpeg">Teaching Permit</a>.</p>
+                    </div>
+                    <div>
+                        <h3>Russian:</h3>
+                        <p>B2 (upper intermediate). I studied two semesters at MGLU (<a href="https://mslu.by/en/">Minsk Linguistic State University</a>) in Minsk.</p>
+                    </div>
+                </div>
             </div>
 
-            <div>
-                <h3>Italian:</h3>
-                <p><a href="https://i.imgur.com/oZLG0zj.jpeg">C2 (near native)</a>.</p>
+            <div class="section">
+                <h2>Work Experience</h2>
+                <p>
+                    Starting in my early 20s, I have taught Greek, French, English, and Spanish to groups and individual students. 
+                    Since 2015, I have been teaching online as well.
+                </p>
+                <p>
+                    I also taught courses on Modern Greek and European Diplomatic History at Panteion University in Athens.
+                </p>
+                <p>
+                    <a href="https://www.linkedin.com/in/georgios-michalopoulos-82bb4396/">My LinkedIn profile</a> (not updated recently).
+                </p>
             </div>
 
-            <div>
-                <h3>Spanish:</h3>
-                <p><a href="https://i.imgur.com/jJlLbvj.jpg">C2 (near native)</a>. <a href="https://i.imgur.com/CPFtKNM.jpeg">Teaching Permit</a>.</p>
-            </div>
+            <h2><a href="classbooking.html">Book a class with me</a></h2>
 
-            <div>
-                <h3>Russian:</h3>
-                <p>B2 (upper intermediate). I studied two semesters at MGLU (<a href="https://mslu.by/en/">Minsk Linguistic State University</a>) in Minsk.</p>
+            <div class="footer-links">
+                <a href="PhilEvents.html"><h3>Coming Philosophy Events</h3></a>
+                <a href="another_page.html">My thoughts on Philosophy (under construction)</a>
+                <a href="personal websites.htm">A list of personal websites</a>
+                <a href="lresources.html">Language learning resources</a>
+                <a href="BadHumour.html">Humour</a>
+                <a href="news.html">News websites from around the world</a>
+                <a href="chess.html">Chess</a>
+                <a href="News_today.html">News from around the world</a>
+                <a href="Info in Greek.html">My information (in Greek)</a>
             </div>
         </div>
-    </div>
 
-    <div class="section">
-        <h2>Work Experience</h2>
-        <p>
-            Starting in my early 20s, I have taught Greek, French, English, and Spanish to groups and individual students. Since 2015, I have been teaching online as well.
-        </p>
-        <p>
-            I also taught courses on Modern Greek and European Diplomatic History at Panteion University in Athens.
-        </p>
-        <p><a href="https://www.linkedin.com/in/georgios-michalopoulos-82bb4396/">My LinkedIn profile</a> (not updated recently).</p>
-    </div>
-<h2><a href="classbooking.html">Book a class with me</a></h2>
-    <div class="footer-links">
-        <a href="PhilEvents.html"><h3>Coming Philosophy Events</h3></a>
-        <a href="another_page.html">My thoughts on Philosophy (under construction)</a>
-        <a href="personal websites.htm">A list of personal websites</a>
-        <a href="lresources.html">Language learning resources</a>
-        
-        <a href="BadHumour.html">Humour</a>
-        <a href="news.html">News websites from around the world</a>
-        <a href="chess.html">Chess</a>
-        <a href="News_today.html">News from around the world</a>
-        <a href="Info in Greek.html">My information (in Greek)</a>
-    </div>
-</div>
-
-</body>
+    </body>
 </html>

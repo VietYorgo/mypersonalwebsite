@@ -5,77 +5,117 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Language Learning Resources</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Arial', sans-serif;
+            background-color: #f9fafc;
+            color: #333;
             line-height: 1.6;
-            margin: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
         h1 {
-            color: #333;
+            font-size: 2rem;
+            margin-bottom: 20px;
+            color: #0056b3;
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            margin-bottom: 20px;
+        }
+        li {
+            margin-bottom: 15px;
+            padding: 10px;
+            background: #f0f4f8;
+            border-radius: 8px;
+            transition: transform 0.2s ease;
+        }
+        li:hover {
+            transform: scale(1.02);
+            background: #e8eff6;
+        }
+        li strong {
+            color: #0056b3;
         }
         a {
-            color: #0066cc;
+            color: #0073e6;
             text-decoration: none;
+            font-weight: bold;
         }
         a:hover {
             text-decoration: underline;
         }
-        ul {
-            list-style-type: none;
-        }
-        li {
-            margin-bottom: 10px;
-        }
         .section-links {
             margin-top: 20px;
+            text-align: center;
+        }
+        .section-links a {
+            margin: 0 5px;
+            color: white;
+            background-color: #0073e6;
+            padding: 10px 15px;
+            border-radius: 8px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+        .section-links a:hover {
+            background-color: #005bb5;
         }
     </style>
 </head>
 <body>
-    <h1>Language Learning Resources</h1>
+    <div class="container">
+        <h1>Language Learning Resources</h1>
+        <ul>
+            <li>
+                <strong>Linguallama</strong> organizes <b>daily and free language exchanges</b> between English and Spanish speakers.
+                Join their Discord server <a href="https://discord.gg/linguallama-serving-languages-worldwide-762367346890768394">here</a>.
+                Visit their webpage <a href="https://linguallama-academy.mn.co/share/r2GbZYnMnPAk4BUL?utm_source=manual">here</a>.
+            </li>
+            <li>
+                <a href="https://www.conversationexchange.com/">Conversation Exchange</a>: A platform for 1-on-1 language exchanges.
+            </li>
+            <li>
+                <a href="https://www.languagetransfer.org/free-courses-1">Language Transfer</a>: Free audio lessons in various languages.
+            </li>
+            <li>
+                <a href="https://www.educaplay.com/">Educaplay</a>: User-submitted online exercises.
+                Check out <a href="https://www.educaplay.com/user/2527487-georgios/">my own page on Educaplay</a> for Spanish and Greek exercises.
+            </li>
+            <li>
+                <a href="http://cooljugator.com">Cooljugator</a>: An online verb conjugator for multiple languages.
+            </li>
+            <li>
+                <a href="https://www.digitaldialects.com/">Digital Dialects</a>: Interactive online language exercises.
+            </li>
+            <li>
+                <a href="https://www.lingohut.com/en">Lingohut</a>: Free language learning resources and lessons.
+            </li>
+        </ul>
 
-    <ul>
-        <li>
-            <strong>Linguallama</strong> organizes <b>daily and free language exchanges</b> between English and Spanish speakers.
-            Join their Discord server <a href="https://discord.gg/linguallama-serving-languages-worldwide-762367346890768394">here</a>.
-            Visit their webpage <a href="https://linguallama-academy.mn.co/share/r2GbZYnMnPAk4BUL?utm_source=manual">here</a>.
-        </li>
-
-        <li>
-            <a href="https://www.conversationexchange.com/">Conversation Exchange</a>: A platform for 1-on-1 language exchanges.
-        </li>
-
-        <li>
-            <a href="https://www.languagetransfer.org/free-courses-1">Language Transfer</a>: Free audio lessons in various languages.
-        </li>
-
-        <li>
-            <a href="https://www.educaplay.com/">Educaplay</a>: User-submitted online exercises.
-            Check out <a href="https://www.educaplay.com/user/2527487-georgios/">my own page on Educaplay</a> for Spanish and Greek exercises.
-        </li>
-
-        <li>
-            <a href="http://cooljugator.com">Cooljugator</a>: An online verb conjugator for multiple languages.
-        </li>
-
-        <li>
-            <a href="https://www.digitaldialects.com/">Digital Dialects</a>: Interactive online language exercises.
-        </li>
-
-        <li>
-            <a href="https://www.lingohut.com/en">Lingohut</a>: Free language learning resources and lessons.
-        </li>
-    </ul>
-
-    <div class="section-links">
-        <a href="GreekR.htm">Greek Resources</a> | 
-        <a href="SpanishR.html">Spanish Resources</a> | 
-        <a href="French.html">French Resources</a> | 
-        <a href="VietnameseResources.html">Vietnamese Resources</a> |
-        <a href="American_Pronunciation.html">American Pronunciation</a> | 
-        
-       
-        <a href="index.html">Back to the main page</a>
+        <div class="section-links">
+            <a href="GreekR.htm">Greek Resources</a>
+            <a href="SpanishR.html">Spanish Resources</a>
+            <a href="French.html">French Resources</a>
+            <a href="VietnameseResources.html">Vietnamese Resources</a>
+            <a href="American_Pronunciation.html">American Pronunciation</a>
+            <a href="index.html">Back to the main page</a>
+        </div>
     </div>
 </body>
 </html>

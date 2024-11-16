@@ -15,6 +15,13 @@
             background-attachment: fixed; /* Enables the parallax effect */
             background-position: top right;
             background-size: 200px; /* Adjust size as needed */
+            box-sizing: border-box; /* Ensures no extra spacing affects layout */
+        }
+
+        * {
+            margin: 0; /* Removes margin from all elements */
+            padding: 0; /* Removes padding from all elements */
+            box-sizing: border-box; /* Standardizes box-sizing across elements */
         }
 
         h1 {
@@ -49,7 +56,7 @@
 </head>
 <body>
 
-<h1>Momazos</h1>
+<h1>Single Column Meme Gallery</h1>
 <div class="gallery">
     <img src="https://i.imgur.com/fL6QmF2.jpg" alt="Image 1">
     <img src="https://i.imgur.com/mxYYgou.jpg" alt="Image 2">

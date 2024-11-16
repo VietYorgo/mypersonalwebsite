@@ -3,23 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Gallery</title>
+    <title>Single Column Meme Gallery</title>
     <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-top: 20px;
+        }
+
         .gallery {
             display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            padding: 10px;
+            max-width: 600px;
+            margin: 0 auto;
         }
+
         .gallery img {
-            width: 200px;
+            width: 100%;
+            max-width: 100%;
             height: auto;
-            border-radius: 5px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .gallery img:hover {
+            transform: scale(1.02);
         }
     </style>
 </head>
 <body>
 
-<h1>Image Gallery</h1>
+<h1>Single Column Meme Gallery</h1>
 <div class="gallery">
     <img src="https://i.imgur.com/fL6QmF2.jpg" alt="Image 1">
     <img src="https://i.imgur.com/mxYYgou.jpg" alt="Image 2">

@@ -20,6 +20,16 @@ These discussions take place purely for historical, educational, and analytical 
 Historical Revisionism in Film: Das Boot by Wolfgang Petersen(Germany, 1981)
 [Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305517734/)
 
+### January 22
+
+The Grand Strategy of Nazi Racial War
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305625530/)
+
+### January 24
+
+The French Revolution in Film: Danton by Andrzej Wajda (France/Poland, 1983)
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305577655/)
+
 ## Past Events (hosting on Meetup since 2021)
 
 ### December 14

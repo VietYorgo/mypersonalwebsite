@@ -1,5 +1,5 @@
 ---
-title: News Update
+title: News Updates
 ---
 
 ## November 13, 2024

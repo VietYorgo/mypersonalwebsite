@@ -13,17 +13,19 @@ Categories and examples from:
 
 **Example:** Peter washes himself.
 
-<p class="language-example">Pedro se lava. (Spanish)</p>
+::examples
+Pedro se lava. (Spanish)
 
-<p class="language-example">Pietro si lava. (Italian)</p>
+Pietro si lava. (Italian)
 
-<p class="language-example">Pierre se lave. (French)</p>
+Pierre se lave. (French)
 
-<p class="language-example">Petras prausiasi. (Lithuanian)</p>
+Petras prausiasi. (Lithuanian)
 
-<p class="language-example">Petar se kupa. (Serbo-Croatian)</p>
+Petar se kupa. (Serbo-Croatian)
 
-<p class="language-example">Ο Πέτρος πλένεται. (Greek)</p>
+Ο Πέτρος πλένεται. (Greek)
+::
 
 Note: In Greek, you cannot say _Ο Πέτρος πλένεται τα χέρια_; instead,
 use _Ο Πέτρος πλένει τα χέρια του_.
@@ -34,17 +36,19 @@ use _Ο Πέτρος πλένει τα χέρια του_.
 
 **Example:** Peter and Mary kiss each other.
 
-<p class="language-example">María y Pedro se besan. (Spanish)</p>
+::examples
+María y Pedro se besan. (Spanish)
 
-<p class="language-example">Maria e Pietro si baciano. (Italian)</p>
+Maria e Pietro si baciano. (Italian)
 
-<p class="language-example">Marie et Pierre s'embrassent. (French)</p>
+Marie et Pierre s'embrassent. (French)
 
-<p class="language-example">Marija ir Petras bučiuojasi. (Lithuanian)</p>
+Marija ir Petras bučiuojasi. (Lithuanian)
 
-<p class="language-example">Marija i Petar se ljube. (Serbo-Croatian)</p>
+Marija i Petar se ljube. (Serbo-Croatian)
 
-<p class="language-example">Ο Πέτρος και η Μαρία φιλιούνται. (Greek)</p>
+Ο Πέτρος και η Μαρία φιλιούνται. (Greek)
+::
 
 Note: In Greek, reciprocal verbs do not take an object. An exception is the
 verb _παντρεύομαι_ (to marry), e.g.,
@@ -59,15 +63,17 @@ _Ο Πέτρος φιλιέται/αγαπιέται με τη Μαρία_.
 
 **Example:** Peter was offended.
 
-<p class="language-example">Pedro se ofendió. (Spanish)</p>
+::examples
+Pedro se ofendió. (Spanish)
 
-<p class="language-example">Pietro si offese. (Italian)</p>
+Pietro si offese. (Italian)
 
-<p class="language-example">Petras įsižeidė. (Lithuanian)</p>
+Petras įsižeidė. (Lithuanian)
 
-<p class="language-example">Petar se uvrijedio. (Serbo-Croatian)</p>
+Petar se uvrijedio. (Serbo-Croatian)
 
-<p class="language-example">Ο Πέτρος προσβλήθηκε. (Greek)</p>
+Ο Πέτρος προσβλήθηκε. (Greek)
+::
 
 Examples of autocausative verbs in Greek:
 
@@ -82,11 +88,17 @@ change of state.
 
 **Example:** The door opened.
 
-<p class="language-example">La puerta se abrió. (Spanish)</p>
-<p class="language-example">La porta si aprì. (Italian)</p>
-<p class="language-example">Durys atsidarė. (Lithuanian)</p>
-<p class="language-example">Vrata su se otvorila. (Serbo-Croatian)</p>
-<p class="language-example">Η πόρτα άνοιξε. (Greek)</p>
+::examples
+La puerta se abrió. (Spanish)
+
+La porta si aprì. (Italian)
+
+Durys atsidarė. (Lithuanian)
+
+Vrata su se otvorila. (Serbo-Croatian)
+
+Η πόρτα άνοιξε. (Greek)
+::
 
 Note: In Greek, anticausative verbs are expressed using the active voice with
 the inanimate subject.
@@ -103,16 +115,20 @@ action.
 
 **Example:** \[People] work well here.
 
-<p class="language-example">Aquí se trabaja bien. (Spanish)</p>
-<p class="language-example">Qui si lavora bene. (Italian)</p>
-<p class="language-example">Čia gerai darbuojasi. (Lithuanian)</p>
-<p class="language-example">Tu se radi dobro. (Serbo-Croatian)</p>
-<p>
-    In Greek, such phrases are ungrammatical, e.g.,
-    _*Εδώ δουλεύεται καλά_. However, doxastic verbs such as
-    _λέγεται_ (it is said), _πιστεύεται_ (it is believed), and
-    _φαίνεται_ (it seems) can be used.
-</p>
+::examples
+Aquí se trabaja bien. (Spanish)
+
+Qui si lavora bene. (Italian)
+
+Čia gerai darbuojasi. (Lithuanian)
+
+Tu se radi dobro. (Serbo-Croatian)
+
+In Greek, such phrases are ungrammatical, e.g.,
+_Εδώ δουλεύεται καλά_. However, doxastic verbs such as
+_λέγεται_ (it is said), _πιστεύεται_ (it is believed), and
+_φαίνεται_ (it seems) can be used.
+::
 
 ### Impersonal Verbs in Greek
 
@@ -128,10 +144,15 @@ action.
 
 **Example:** Peter repented.
 
-<p class="language-example">Pedro se arrepintió. (Spanish)</p>
-<p class="language-example">Pietro si pentì. (Italian)</p>
-<p class="language-example">Petras atsiprašė. (Lithuanian)</p>
-<p class="language-example">Petar se pokajao. (Serbo-Croatian)</p>
+::examples
+Pedro se arrepintió. (Spanish)
+
+Pietro si pentì. (Italian)
+
+Petras atsiprašė. (Lithuanian)
+
+Petar se pokajao. (Serbo-Croatian)
+::
 
 Inherently reflexive verbs in Spanish:
 
@@ -228,8 +249,11 @@ agent.
 
 **Example:** The policeman was killed by Peter.
 
-<p class="language-example">Ο Πέτρος σκοτώθηκε από τον αστυνομικό. (Greek)</p>
-<p class="language-example">Pedro fue matado por el policía. (Spanish)</p>
+::examples
+Ο Πέτρος σκοτώθηκε από τον αστυνομικό. (Greek)
+
+Pedro fue matado por el policía. (Spanish)
+::
 
 In Greek, the passive form is often used with a passive participle. Examples:
 
@@ -240,7 +264,12 @@ In Greek, the passive form is often used with a passive participle. Examples:
 
 **Definition:** Indicates the possibility of an action.
 
-<p class="language-example">Τρώγεται - It can be eaten/It is edible.</p>
-<p class="language-example">Πίνεται - It can be drunk/It is drinkable.</p>
-<p class="language-example">Βλέπεται - It can be seen/It is visible.</p>
-<p class="language-example">Ακούγεται - It can be heard/It is audible.</p>
+::examples
+Τρώγεται - It can be eaten/It is edible.
+
+Πίνεται - It can be drunk/It is drinkable.
+
+Βλέπεται - It can be seen/It is visible.
+
+Ακούγεται - It can be heard/It is audible.
+::

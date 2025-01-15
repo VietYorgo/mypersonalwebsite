@@ -5,6 +5,9 @@ title: Image Gallery
 # MHMZ
 
 ::img-gallery
+
+![Image 26](https://i.imgur.com/SvtbBjR.png)
+![Image 25](https://i.imgur.com/x1XSkde.png)
 ![Image 22](https://imgur.com/iCFgQQb.png)
 ![Image 23](https://imgur.com/P77mFBZ.jpeg)
 ![Image 24](https://imgur.com/tGEjhRj.png)

@@ -1,5 +1,5 @@
 ---
-title: Responsive Images
+title: Generic Philosophy Memes
 # title: Image Gallery
 ---
 

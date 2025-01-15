@@ -1,3 +1,8 @@
+---
+title: Hegel Memes
+# title: Image Gallery
+---
+
 ![](https://i.imgur.com/tW4soVg.png)
 
 ![](https://i.imgur.com/fKa7pb2.png)

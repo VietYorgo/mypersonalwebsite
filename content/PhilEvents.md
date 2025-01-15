@@ -15,6 +15,13 @@ These discussions take place purely for historical, educational, and analytical 
 
 <!-- TODO: vue component -->
 
+### January 17
+
+Historical Revisionism in Film: Das Boot by Wolfgang Petersen(Germany, 1981)
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305517734/)
+
+## Past Events (hosting on Meetup since 2021)
+
 ### December 14
 
 The unsavory side of Italian culture: Ugly, Dirty, and Bad (Italy, 1976)
@@ -26,8 +33,6 @@ The unsavory side of Italian culture: Ugly, Dirty, and Bad (Italy, 1976)
 The Leopard (Italy and France, 1963)
 
 [Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/304571633/)
-
-## Past Events (hosting on Meetup since 2021)
 
 ### December 5
 

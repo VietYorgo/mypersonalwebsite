@@ -1,3 +1,16 @@
+## January 15, 2025
+![Image 1](https://i.imgur.com/0ddXvQ7.png)
+![Image 3](https://i.imgur.com/nfbMnPC.png)
+![Image 4](https://i.imgur.com/gbabABp.png)
+![Image 5](https://i.imgur.com/t4u2n77.png)
+![Image 6](https://i.imgur.com/EeRipac.png)
+![Image 7](https://i.imgur.com/2TN4tQL.png)
+![Image 8](https://i.imgur.com/NK8ovd8.png)
+![Image 9](https://i.imgur.com/5ZKKyTe.png)
+![Image 10](https://i.imgur.com/Ic8mbte.png)
+![Image 11](https://i.imgur.com/Olpkux2.png)
+![Image 12](https://i.imgur.com/E54Ci0z.png)
+
 ## November 12, 2024
 
 ![Image 1](https://imgur.com/hwYFuWu.jpg)

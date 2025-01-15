@@ -1,5 +1,5 @@
 ---
-title: Image Gallery
+title: Other academic certificates
 ---
 
 ::img-gallery

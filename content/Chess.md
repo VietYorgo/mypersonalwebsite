@@ -1,6 +1,6 @@
 # Chess
 
-[Chess Resources](./Chess/ChessR.md)
+[Chess Resources](Chess Resources.md)
 
 [Chess on YouTube](./Chess/YouTube_Chess.md)
 

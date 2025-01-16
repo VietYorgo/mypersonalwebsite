@@ -426,5 +426,3 @@ Can We Justify Crime? Exploring Ethics in "Crimes and Misdemeanors"
 ::
 
 ## [Full Calendar](https://www.meetup.com/The-Toronto-Philosophy-Meetup/events/calendar)(accessible only to members)
-
-## hi

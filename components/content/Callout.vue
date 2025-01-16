@@ -5,8 +5,8 @@ defineProps(["type", "title"]);
 </script>
 
 <template>
-  <template class="alert-success alert-info alert-warning alert-error" />
-  <div role="alert" class="flex flex-col alert m-4" :class="[`alert-${type}`]">
+  <div role="alert" class="flex flex-col alert" :class="[`alert-${type}`]">
+    <template class="alert-success alert-info alert-warning alert-error" />
     <div>
       <div class="inline-flex">
         <svg

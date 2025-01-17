@@ -38,6 +38,14 @@ The Grand Strategy of Nazi Racial War
 
 ::card
 
+### January 23
+
+"The 'I' Problem and Genius" by Otto Weininger
+:::btn
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305663310/)
+:::
+::
+
 ### January 24
 
 The French Revolution in Film: Danton by Andrzej Wajda (France/Poland, 1983)

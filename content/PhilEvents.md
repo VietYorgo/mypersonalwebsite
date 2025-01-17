@@ -46,6 +46,8 @@ The Grand Strategy of Nazi Racial War
 :::
 ::
 
+::card
+
 ### January 24
 
 The French Revolution in Film: Danton by Andrzej Wajda (France/Poland, 1983)

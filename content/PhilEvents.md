@@ -17,15 +17,7 @@ These discussions take place purely for historical, educational, and analytical 
 
 ::card
 
-### January 17
 
-Historical Revisionism in Film: Das Boot by Wolfgang Petersen(Germany, 1981)
-:::btn
-[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305517734/)
-:::
-::
-
-::card
 
 ### January 22
 
@@ -56,7 +48,29 @@ The French Revolution in Film: Danton by Andrzej Wajda (France/Poland, 1983)
 :::
 ::
 
+::card
+
+### January 28
+
+The Destiny of World History by Oswald Spengler
+:::btn
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305712982/)
+:::
+::
+
+
+
 ## Past Events (hosting on Meetup since 2021)
+
+::card
+
+### January 17
+
+Historical Revisionism in Film: Das Boot by Wolfgang Petersen(Germany, 1981)
+:::btn
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305517734/)
+:::
+::
 
 ::card
 

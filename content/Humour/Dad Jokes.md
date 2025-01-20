@@ -4,6 +4,25 @@ title: Dad Jokes
 
 # Dad Jokes
 
+## January 20, 2025
+
+::img-gallery
+![Dad1](https://i.imgur.com/ldXVmIS.png)
+![Dad2](https://i.imgur.com/Wt7mCDX.png)
+![Dad3](https://i.imgur.com/A18guLx.png)
+![Dad4](https://i.imgur.com/0dGM9V3.png)
+![Dad5](https://i.imgur.com/0eI00r1.png)
+![Dad6](https://i.imgur.com/rH2yur2.png)
+![Dad7](https://i.imgur.com/3v07xjF.png)
+![Dad8](https://i.imgur.com/HomYnNS.png)
+![Dad9](https://i.imgur.com/ol5zCiw.png)
+![Dad10](https://i.imgur.com/q7zXGil.png)
+![Dad11](https://i.imgur.com/mdxQg0Y.png)
+![Dad12](https://i.imgur.com/7y3Pl8m.png)
+![Dad13](https://i.imgur.com/h9tdwlH.png)
+![Dad14](https://i.imgur.com/SG6nM0Q.png)
+
+
 ## November 21, 2024
 
 ::img-gallery

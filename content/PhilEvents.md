@@ -19,18 +19,9 @@ These discussions take place purely for historical, educational, and analytical 
 
 
 
-### January 22
 
-The Grand Strategy of Nazi Racial War
 
-:::btn
-[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305625530/)
-:::
-::
-
-::card
-
-### January 23
+### January 24
 
 "The 'I' Problem and Genius" by Otto Weininger
 :::btn
@@ -61,6 +52,17 @@ The Destiny of World History by Oswald Spengler
 
 
 ## Past Events (hosting on Meetup since 2021)
+
+::card
+
+### January 22
+
+The Grand Strategy of Nazi Racial War
+
+:::btn
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305625530/)
+:::
+::
 
 ::card
 

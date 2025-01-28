@@ -21,13 +21,30 @@ These discussions take place purely for historical, educational, and analytical 
 
 
 
-### January 24
 
-"The 'I' Problem and Genius" by Otto Weininger
+
+
+
+### January 28
+
+The Destiny of World History by Oswald Spengler
 :::btn
-[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305663310/)
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305712982/)
 :::
 ::
+
+::card
+
+### February 14
+
+Full Metal Jacket: War experienced in the first person
+:::btn
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305858164/)
+:::
+::
+
+
+## Past Events (hosting on Meetup since 2021)
 
 ::card
 
@@ -41,17 +58,13 @@ The French Revolution in Film: Danton by Andrzej Wajda (France/Poland, 1983)
 
 ::card
 
-### January 28
+### January 23
 
-The Destiny of World History by Oswald Spengler
+"The 'I' Problem and Genius" by Otto Weininger
 :::btn
-[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305712982/)
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305663310/)
 :::
 ::
-
-
-
-## Past Events (hosting on Meetup since 2021)
 
 ::card
 

@@ -1,3 +1,11 @@
+## January 29, 2025
+![Image 1](https://i.imgur.com/uuerCif.png)
+![Image 2](https://i.imgur.com/6HEcZl1.png)
+![Image 3](https://i.imgur.com/lSLYrsV.png)
+![Image 4](https://i.imgur.com/C8BF6Lz.png)
+![Image 5](https://i.imgur.com/Z1skmnw.png)
+![Image 6](https://i.imgur.com/6Ja2Tek.jpeg)
+
 ## January 15, 2025
 ![Image 1](https://i.imgur.com/0ddXvQ7.png)
 ![Image 3](https://i.imgur.com/nfbMnPC.png)

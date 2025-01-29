@@ -25,15 +25,7 @@ These discussions take place purely for historical, educational, and analytical 
 
 
 
-### January 28
 
-The Destiny of World History by Oswald Spengler
-:::btn
-[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305712982/)
-:::
-::
-
-::card
 
 ### February 14
 
@@ -45,6 +37,16 @@ Full Metal Jacket: War experienced in the first person
 
 
 ## Past Events (hosting on Meetup since 2021)
+
+::card
+
+### January 28
+
+The Destiny of World History by Oswald Spengler
+:::btn
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305712982/)
+:::
+::
 
 ::card
 

@@ -2,9 +2,7 @@
 title: Philosophy Events
 ---
 
-<!--INFO: auto fetch?-->
-
-<!--TODO: vue component it -->
+<!--TODO: auto fetch?-->
 
 ::callout{type="warning" title="Disclaimer"}
 
@@ -13,19 +11,7 @@ These discussions take place purely for historical, educational, and analytical 
 
 # Upcoming Philosophy Events (dates might vary depending on your timezone)
 
-<!-- TODO: vue component -->
-
 ::card
-
-
-
-
-
-
-
-
-
-
 
 ### February 14
 
@@ -34,7 +20,6 @@ Full Metal Jacket: War experienced in the first person
 [Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305858164/)
 :::
 ::
-
 
 ## Past Events (hosting on Meetup since 2021)
 

@@ -3,6 +3,12 @@ title: Dad Jokes
 ---
 
 # Dad Jokes
+## March 27, 2025
+
+::img-gallery
+![HardDrive](https://i.imgur.com/OEkKbSZ.png)
+![GuardDown](https://i.imgur.com/sNgv0xg.png)
+![YouSuck](https://i.imgur.com/1aLQmlL.png)
 
 ## January 20, 2025
 

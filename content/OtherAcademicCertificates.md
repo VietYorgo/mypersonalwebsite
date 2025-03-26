@@ -10,4 +10,5 @@ title: Other academic certificates
 ![Laiko](https://i.imgur.com/0DB0BBp.jpeg)
 ![Vergottis](https://i.imgur.com/22ZnxDc.jpeg)
 ![Eparkeia Agglikon](https://i.imgur.com/gYh8yeK.jpeg)
+![Minsk Certificate](https://i.imgur.com/CgskAkV.jpeg)
 ::

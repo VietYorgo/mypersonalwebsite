@@ -21,6 +21,7 @@ title: Dad Jokes
 ![Dad12](https://i.imgur.com/7y3Pl8m.png)
 ![Dad13](https://i.imgur.com/h9tdwlH.png)
 ![Dad14](https://i.imgur.com/SG6nM0Q.png)
+::
 
 
 ## November 21, 2024

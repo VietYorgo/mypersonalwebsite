@@ -2,7 +2,13 @@
 title: Generic Philosophy Memes
 # title: Image Gallery
 ---
+## March 27, 2025
 
+::img-gallery
+![gender studies](https://i.imgur.com/vw5jlb8.png)
+![trolley problem](https://i.imgur.com/DAGosky.png)
+![Sun Tzu](https://i.imgur.com/4CctBXb.png)
+::
 ## November 28, 2024
 
 ::img-gallery

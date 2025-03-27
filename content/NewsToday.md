@@ -3,6 +3,7 @@ title: News Updates
 ---
 ## March 27, 2025
 - EU to free up billions of euros for defence - but wait, these guys were broke? [Source (Financial Times)](https://www.ft.com/content/eb0de7f4-5ba1-460a-a83d-1a7302fc1536)
+- Taiwan boosts defence readiness in show to US and China (that should totally stop China) [Source (Financial Times)](https://www.ft.com/content/5b29ba68-b24f-40a2-948f-c28b56eac1fe)
 
 ## November 13, 2024
 

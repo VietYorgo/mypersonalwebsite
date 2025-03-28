@@ -2,6 +2,11 @@
 title: Generic Philosophy Memes
 # title: Image Gallery
 ---
+## March 28, 2025
+::img-gallery
+![phil prof](https://i.imgur.com/GQ3STTO.png)
+![stupid time](https://i.imgur.com/SwY4137.png)
+::
 ## March 27, 2025
 
 ::img-gallery

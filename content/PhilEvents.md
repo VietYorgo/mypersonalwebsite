@@ -8,7 +8,7 @@ title: Philosophy Events
 
 These discussions take place purely for historical, educational, and analytical purposes. By analyzing movies and texts, our objective is to understand; we do not endorse or support any of the ideologies or messages conveyed in them.
 
-
+::
 # Upcoming Philosophy Events (dates might vary depending on your timezone)
 ### April 4, 2025
 Movie Discussion: Alexander Nevsky (USSR, 1938)

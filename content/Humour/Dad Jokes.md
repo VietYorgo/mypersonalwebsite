@@ -3,7 +3,12 @@ title: Dad Jokes
 ---
 
 # Dad Jokes
-
+## March 28, 2025
+::img-gallery
+![soda pressing](https://i.imgur.com/5ycXMxa.png)
+![china](https://i.imgur.com/9YeU0gE.png)
+![frank](https://i.imgur.com/kQRZY3n.png)
+::
 ## March 27, 2025
 
 ::img-gallery

@@ -10,6 +10,7 @@ These discussions take place purely for historical, educational, and analytical 
 
 ::
 # Upcoming Philosophy Events (dates might vary depending on your timezone)
+::card
 ### April 4, 2025
 Movie Discussion: Alexander Nevsky (USSR, 1938)
 :::btn

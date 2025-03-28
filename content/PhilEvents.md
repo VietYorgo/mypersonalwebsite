@@ -15,6 +15,7 @@ Movie Discussion: Alexander Nevsky (USSR, 1938)
 :::btn
 [Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/306936455/)
 :::
+::
 
 ::card
 ### April 9, 2025

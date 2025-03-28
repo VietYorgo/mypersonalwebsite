@@ -10,18 +10,50 @@ These discussions take place purely for historical, educational, and analytical 
 ::
 
 # Upcoming Philosophy Events (dates might vary depending on your timezone)
+### April 4, 2025
+Movie Discussion: Alexander Nevsky (USSR, 1938)
+:::btn
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/306936455/)
+:::
+::
+
+::card
+### April 9, 2025
+Kierkegaard: Papers and Journals
+:::btn
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/306940668/)
+:::
+::
 
 ::card
 
-### February 14
+
+
+## Past Events (hosting on Meetup since 2021)
+### March 15, 2025
+Movie Discussion: Waterloo (1970) — Could Napoleon have won?
+:::btn
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305875594/)
+:::
+::
+
+::card
+
+### March 1, 2025
+The Fool (2014): What is wrong with Russia?
+:::btn
+[Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305875336/)
+:::
+::
+
+::card
+### February 14, 2025
 
 Full Metal Jacket: War experienced in the first person
 :::btn
 [Event Link](https://www.meetup.com/the-toronto-philosophy-meetup/events/305858164/)
 :::
 ::
-
-## Past Events (hosting on Meetup since 2021)
 
 ::card
 

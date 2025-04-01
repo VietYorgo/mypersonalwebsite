@@ -6,6 +6,7 @@ title: Image Gallery
 
 ::img-gallery
 
+![toilet paper](https://i.imgur.com/S7iDn37.png)
 ![Image 26](https://i.imgur.com/SvtbBjR.png)
 ![Image 25](https://i.imgur.com/x1XSkde.png)
 ![Image 22](https://imgur.com/iCFgQQb.png)

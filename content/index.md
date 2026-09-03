@@ -1,55 +1,60 @@
 ---
-title: Georgios Michalopoulos - About Me
+title: Γεώργιος Μιχαλόπουλος - Μαθήματα Ελληνικών & Βιβλιοπωλείο
 ---
 
-# Hey, I'm Georgios (Yorgo) Michalopoulos
+[🇬🇧 English](./index-en.md)
+
+# Γεώργιος (Γιώργος) Μιχαλόπουλος
 
 <div class="image-banner">
-<img src="https://i.imgur.com/XS0Q1mb.jpeg" alt="Oxford Graduation" />
+<img src="https://i.imgur.com/XS0Q1mb.jpeg" alt="Αποφοίτηση Οξφόρδη" />
 </div>
 
-## [Book a class with me](./ClassBooking.md)
+**Καθηγητής Γλωσσών (Διδακτορικό Οξφόρδη, Μεταπτυχιακό Καίμπριτζ) & Πωλητής Βιβλίων και CD**
 
-## About Me
+*Διδάσκω ελληνικά και αναζητώ παλιά βιβλία και CD.*
 
-I am a foreign language teacher and learner. [Join my Philosophy Discord Server](https://discord.gg/xDj2WM75Vd).
+---
 
-## What I'm Working On
+## Τι σε φέρνει εδώ σήμερα;
 
-I'm currently obsessed with learning Vietnamese, and I split my time between Athens, Greece, and Bắc Ninh, Vietnam.
+### 🏛️ Μαθήματα Ελληνικής Γλώσσας
+Ψάχνεις για επαγγελματική διδασκαλία Νέων Ελληνικών, ένα προς ένα;
+* Προσαρμοσμένα μαθήματα για όλα τα επίπεδα (από αρχάριους έως προχωρημένους)
+* Πάνω από 10 χρόνια εμπειρίας στη διδασκαλία γλωσσών
+* Με ακαδημαϊκή κατάρτιση από Οξφόρδη & Κέμπριτζ
 
-## Languages I Speak
+👉 **[Κλείσε Μάθημα μέσω Google Calendar](./ClassBooking.md)**
+👉 **[Δες Πηγές για την Ελληνική Γλώσσα](./LResources/3. GreekR.md)**
 
-### Greek
+---
 
-Native speaker.
+### 📚 Κόμιξ και Κουλτούρα (Βιβλία & CD)
+Ψάχνεις για μεταχειρισμένα βιβλία και κόμικς ή CD μουσικής;
+* Σύνδεσμοι καταστήματος στην αγορά (Metabook / Vendora)
+* Σύνδεσμοι και στοιχεία πληρωμής
+* Απευθείας επικοινωνία με την εξυπηρέτηση πελατών
 
-### English
+👉 **[Δες Πληροφορίες Καταστήματος & Καταχωρίσεις](./InfoGreek.md)**
 
-Near native. I studied in the UK with a scholarship from the Greek State. I hold a PhD in European History [from Oxford](https://i.imgur.com/XS0Q1mb.jpeg) and an MPhil [from Cambridge](https://i.imgur.com/WBvVSs6.jpeg).
+---
 
-### French
+## Σχετικά με Εμένα & Προσόντα
 
-[C2 (near native)](https://i.imgur.com/lgOO2lQ.jpeg). [Teaching Permit](https://i.imgur.com/wLaEM9e.jpeg).
+Είμαι επαγγελματίας καθηγητής γλωσσών και μοιράζω τον χρόνο μου ανάμεσα στην Αθήνα και το Bắc Ninh του Βιετνάμ. Προσφέρω διαδικτυακά μαθήματα ελληνικών και διαχειρίζομαι το *Κόμιξ και Κουλτούρα*, ένα ανεξάρτητο κατάστημα μεταχειρισμένων βιβλίων και μουσικών CD.
 
-### Italian
+### Ακαδημαϊκό Υπόβαθρο
+* Διδάσκων, Πάντειο Πανεπιστήμιο, Αθήνα (ένα έτος)
+* Διδακτορικό, Πανεπιστήμιο της Οξφόρδης — 2014
+* Μεταπτυχιακό, Πανεπιστήμιο του Καίμπριτζ — 2008 ([Δες το δίπλωμα](https://i.imgur.com/WBvVSs6.jpeg))
 
-[C2 (near native)](https://i.imgur.com/oZLG0zj.jpeg).
+* **Επαγγελματικό Προφίλ**: [LinkedIn](https://www.linkedin.com/in/georgios-michalopoulos-82bb4396/)
 
-### Spanish
-
-[C2 (near native)](https://i.imgur.com/jJlLbvj.jpg). [Teaching Permit](https://i.imgur.com/CPFtKNM.jpeg).
-
-### Russian
-
-B2 (upper intermediate). I studied two semesters at MGLU ([Minsk Linguistic State University](https://mslu.by/en/)) in Minsk.
-
-## Work Experience
-
-Starting in my early 20s, I have taught Greek, French, English, and Spanish to groups and individual students. Since 2015, I have been teaching online as well.
-
-I also taught courses on Modern Greek and European Diplomatic History at Panteion University in Athens.
-
-[My LinkedIn profile](https://www.linkedin.com/in/georgios-michalopoulos-82bb4396/) (not updated recently).
-
-## [Book a class with me](./ClassBooking.md)
+### Γνώση Ξένων Γλωσσών
+* **Ελληνικά**: Μητρική γλώσσα
+* **Αγγλικά**: Σχεδόν επίπεδο φυσικού ομιλητή (απόφοιτος βρετανικής ανώτατης εκπαίδευσης)
+* **Γαλλικά**: Επίπεδο Γ2 ([Δίπλωμα](https://i.imgur.com/lgOO2lQ.jpeg)) | [Άδεια Διδασκαλίας](https://i.imgur.com/wLaEM9e.jpeg)
+* **Ισπανικά**: Επίπεδο Γ2 ([Δίπλωμα](https://i.imgur.com/jJlLbvj.jpg)) | [Άδεια Διδασκαλίας](https://i.imgur.com/CPFtKMM.jpeg)
+* **Ιταλικά**: Επίπεδο Γ2 ([Δίπλωμα](https://i.imgur.com/oZLG0zj.jpeg))
+* **Ρωσικά**: Επίπεδο Β2 ([Κρατικό Γλωσσολογικό Πανεπιστήμιο Μινσκ](https://mslu.by/en/))
+* **Βιετναμέζικα**: Σε φάση εκμάθησης
